@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 CONTAINER_NAME="Aech" #这个写你的容器名称
-USERNAME="Gold"        #容器用户名
+USERNAME="Lynsei"        #容器用户名
 DISPLAY_NUMBER=":1"   
 DPI=315
 
